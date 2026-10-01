@@ -18,25 +18,40 @@ web applications.
 - 📚 Interested in Software Development and Problem Solving
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Languages
-`C++` `JavaScript` `Python` `SQL`
+### 💻 Languages
+- C++
+- JavaScript
+- Python
+- SQL
 
-### Frontend
-`HTML` `CSS` `JavaScript` `React.js` `Tailwind CSS`
+### 🌐 Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
 
-### Backend
-`Node.js` `Express.js`
+### ⚙️ Backend
+- Node.js
+- Express.js
 
-### Database
-`MongoDB` `MySQL`
+### 🗄️ Database
+- MongoDB
+- MySQL
 
-### Tools
-`Git` `GitHub` `VS Code`
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
 
----
+### 📚 Currently Learning
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Data Structures & Algorithms in C++
 
 ## 🚀 Featured Projects
 
