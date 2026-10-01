@@ -52,57 +52,37 @@ web applications.
 - Express.js
 - MongoDB
 - Data Structures & Algorithms in C++
+---
 
 ## 🚀 Featured Projects
 
-### 🏆 CodeArena
-Campus-focused competitive coding platform.
+### 🏆 CodeArena — Campus Coding Competition Platform
+A campus-focused competitive programming platform where students can solve coding problems, participate in contests, and track their performance.
 
-**Tech:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB
+**Tech Stack:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB
 
-🔗 [View Project](https://github.com/geetanjali0772/CodeArena)
-
----
-
-### 💼 Hire-Hub
-A job portal web application designed to connect job seekers
-with relevant opportunities.
-
-**Tech:** JavaScript, HTML, CSS
-
-🔗 [View Project](https://github.com/geetanjali0772/Hire-Hub)
+🔗 [View CodeArena Repository](https://github.com/geetanjali0772/CodeArena)
 
 ---
 
-### 🎯 Priority List Web App
-A task management web application for organizing tasks according
-to their priority.
+### 💼 Hire-Hub — Job Portal
+A job portal web application designed to connect job seekers with relevant job opportunities.
 
-**Tech:** JavaScript, HTML, CSS
+**Tech Stack:** HTML • CSS • JavaScript
 
-🔗 [View Project](https://github.com/geetanjali0772/Priority-List-Web-App)
+🔗 [View Hire-Hub Repository](https://github.com/geetanjali0772/Hire-Hub)
+
+---
+
+### 📋 Priority List Web App
+A task-prioritization web application based on the Eisenhower Matrix to help users organize and manage important tasks.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 [View Priority List Repository](https://github.com/geetanjali0772/Priority-List-Web-App)
 
 ---
 
-## 🧠 DSA Journey
-
-Currently practicing Data Structures & Algorithms using C++.
-
-### Topics I'm working on:
-
-- Arrays
-- Strings
-- Searching & Sorting
-- Recursion
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Dynamic Programming
-
-🔗 [DSA C++ Journey](https://github.com/geetanjali0772/DSA_cpp_journey)
-
----
 
 ## 📚 Learning Journey
 
@@ -110,6 +90,13 @@ Currently practicing Data Structures & Algorithms using C++.
 Working on Python fundamentals and programming concepts.
 
 🔗 [Python Journey](https://github.com/geetanjali0772/Python-Journey)
+
+### 💻 DSA C++ Journey
+My structured journey of learning and practicing Data Structures & Algorithms using C++.
+
+**Topics:** Arrays • Strings • Searching • Sorting • Recursion • Linked Lists • Stacks • Queues • Trees • Graphs
+
+🔗 [View DSA Journey](https://github.com/geetanjali0772/DSA_cpp_journey)
 
 ### Frontend Development
 Practicing HTML, CSS and JavaScript while building web interfaces.
